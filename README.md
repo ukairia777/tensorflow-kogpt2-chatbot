@@ -1,7 +1,7 @@
 # Tensorflow_KoGPT2_Chabot
 KoGPT2로 만든 일상 대화 챗봇
 
-##Logs
+## Logs
 ```
 입력 : 안녕! 반가워~
 답변 : 반가워요.
