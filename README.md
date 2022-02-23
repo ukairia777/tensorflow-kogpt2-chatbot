@@ -1,6 +1,9 @@
 # Tensorflow_KoGPT2_Chabot
 KoGPT2로 만든 일상 대화 챗봇
 
+## 참고
+[트랜스포머(Attention is All you need)로 구현한 대화 챗봇](https://github.com/ukairia777/tensorflow-transformer)
+
 ## Logs
 ```
 입력 : 안녕! 반가워~
